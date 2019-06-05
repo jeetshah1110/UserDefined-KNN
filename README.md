@@ -15,7 +15,7 @@
   - [Iris Dataset](https://en.wikipedia.org/wiki/Iris_flower_data_set)   
 
 
-![KNN](C:\Users\Jeet\Downloads\knn.png)
+![alt text](C:\Users\Jeet\Downloads\knn.png)
 
 
 
