@@ -16,7 +16,7 @@
 
 
 ![KNN](C:\Users\Jeet\Downloads\knn.png)
-Format: ![Alt Text](url)
+
 
 
 
