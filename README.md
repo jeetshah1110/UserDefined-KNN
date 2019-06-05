@@ -15,13 +15,10 @@
   - [Iris Dataset](https://en.wikipedia.org/wiki/Iris_flower_data_set)   
 
 
-![alt text](C:\Users\Jeet\Downloads\knn.png)
+![KNN Algorithm](https://pbs.twimg.com/media/DmVRIqrXcAAOvtH.jpg:large)
 
 
 
-
-
-
-  The  k-nearest-neighbors  algorithm  is  a  classification  algorithm,  and  it  is  supervised:  it takes a bunch of labelled points and uses them to learn how to label other points. To label a new point, it looks at the labelled points closest to that new point (those are its nearest neighbors), and has those neighbors vote, so whichever label the most of the neighbors  have  is  the  label  for  the  new  point  (the  “k”  is  the  number  of  neighbors  it checks). 
+   The  k-nearest-neighbors  algorithm  is  a  classification  algorithm,  and  it  is  supervised:  it takes a bunch of labelled points and uses them to learn how to label other points. To label a new point, it looks at the labelled points closest to that new point (those are its nearest neighbors), and has those neighbors vote, so whichever label the most of the neighbors  have  is  the  label  for  the  new  point  (the  “k”  is  the  number  of  neighbors  it checks). 
 
 
