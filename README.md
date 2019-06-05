@@ -14,7 +14,11 @@
 
   - [Iris Dataset](https://en.wikipedia.org/wiki/Iris_flower_data_set)   
 
-("C:\Users\Jeet\Downloads\knn.png"?raw=true "Title")
+
+![KNN](C:\Users\Jeet\Downloads\knn.png)
+Format: ![Alt Text](url)
+
+
 
 
 
