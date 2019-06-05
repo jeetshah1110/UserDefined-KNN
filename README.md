@@ -10,6 +10,6 @@
 
 * __Links__            :
 
-[k-NN Algorithm](https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm)
+  - [k-NN Algorithm](https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm)
 
-[Iris Dataset](https://en.wikipedia.org/wiki/Iris_flower_data_set)
+  - [Iris Dataset](https://en.wikipedia.org/wiki/Iris_flower_data_set)   
